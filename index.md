@@ -8,3 +8,4 @@ Table of Contents
 -----------------
 
 * [Ontorec](ontorec/index.md)
+* [Google Fusion Tables](ft/index.md)
